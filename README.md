@@ -1,5 +1,8 @@
 # Animal_Feeding_game
- 
+
+#
+it is an animal-feeding game.
+As you step into this captivating landscape, you'll encounter a colorful array of charming animals, each with its own unique personality and appetite. The challenge? To navigate your character left and right, carefully position yourself to offer delectable treats to the hungry critters. If you successfully feed them then they will vanish automatically.
  
  
  https://github.com/sazidhabib/Animal_Feeding_game/assets/68610034/fac44fed-7855-42e1-b5b8-4550ae3f6f45
